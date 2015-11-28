@@ -1,0 +1,9 @@
+name: CommandPlugin
+version: 1.0
+main: CommandPlugin
+
+commands:
+  test:
+  hello:
+  broadcast:
+  bc:
